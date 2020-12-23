@@ -1,2 +1,2 @@
-# idk
-i dont know what to do
+# hello_world
+print ("hlw world")
